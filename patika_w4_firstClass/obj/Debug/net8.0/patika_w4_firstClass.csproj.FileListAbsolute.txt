@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\bin\Debug\net8.0\patika_w4_firstClass.exe
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\bin\Debug\net8.0\patika_w4_firstClass.deps.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\bin\Debug\net8.0\patika_w4_firstClass.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\bin\Debug\net8.0\patika_w4_firstClass.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\bin\Debug\net8.0\patika_w4_firstClass.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\obj\Debug\net8.0\patika_w4_firstClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\obj\Debug\net8.0\patika_w4_firstClass.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\obj\Debug\net8.0\patika_w4_firstClass.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\obj\Debug\net8.0\patika_w4_firstClass.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\obj\Debug\net8.0\patika_w4_firstClass.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\obj\Debug\net8.0\refint\patika_w4_firstClass.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\obj\Debug\net8.0\patika_w4_firstClass.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\obj\Debug\net8.0\patika_w4_firstClass.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_firstClass\patika_w4_firstClass\obj\Debug\net8.0\ref\patika_w4_firstClass.dll
