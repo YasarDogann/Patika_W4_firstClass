@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 
 namespace patika_w4_firstClass
 {
-    public class Person
+    public class Person //sınıf oluşturduk
     {
-        private string name;
+        //Fields
+        private string name;  
         private string surname;
         private DateTime birthDay;
 
+        //encapsulation
         public string Name
         {
             get { return name; }
@@ -31,7 +33,7 @@ namespace patika_w4_firstClass
         }
 
 
-        public void PersonInfo()
+        public void PersonInfo() //personel bilgi için method
         {
             Console.WriteLine($"Adı: {name}\r\nSoyadı: {surname}\r\nDoğum Tarihi: {birthDay.ToString("dd.MM.yyyy")}");
         }

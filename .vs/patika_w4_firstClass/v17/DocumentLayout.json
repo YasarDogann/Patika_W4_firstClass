@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_firstClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{676C7D71-F3B3-4F38-AEAE-F02CF3D3DA98}|patika_w4_firstClass\\patika_w4_firstClass.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week4\\patika_w4_firstclass\\patika_w4_firstclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{676C7D71-F3B3-4F38-AEAE-F02CF3D3DA98}|patika_w4_firstClass\\patika_w4_firstClass.csproj|solutionrelative:patika_w4_firstclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{676C7D71-F3B3-4F38-AEAE-F02CF3D3DA98}|patika_w4_firstClass\\patika_w4_firstClass.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week4\\patika_w4_firstclass\\patika_w4_firstclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{676C7D71-F3B3-4F38-AEAE-F02CF3D3DA98}|patika_w4_firstClass\\patika_w4_firstClass.csproj|solutionrelative:patika_w4_firstclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{676C7D71-F3B3-4F38-AEAE-F02CF3D3DA98}|patika_w4_firstClass\\patika_w4_firstClass.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week4\\patika_w4_firstclass\\patika_w4_firstclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{676C7D71-F3B3-4F38-AEAE-F02CF3D3DA98}|patika_w4_firstClass\\patika_w4_firstClass.csproj|solutionrelative:patika_w4_firstclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_firstClass\\patika_w4_firstClass\\Person.cs",
               "RelativeDocumentMoniker": "patika_w4_firstClass\\Person.cs",
               "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_firstClass\\patika_w4_firstClass\\Person.cs",
               "RelativeToolTip": "patika_w4_firstClass\\Person.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T14:39:34.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_firstClass\\patika_w4_firstClass\\Program.cs",
               "RelativeDocumentMoniker": "patika_w4_firstClass\\Program.cs",
               "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_firstClass\\patika_w4_firstClass\\Program.cs",
               "RelativeToolTip": "patika_w4_firstClass\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T14:39:01.446Z",
               "EditorCaption": ""
